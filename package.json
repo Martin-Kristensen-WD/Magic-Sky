@@ -1,0 +1,21 @@
+{
+  "name": "magic-sky",
+  "displayName": "Magic Sky",
+  "description": "A color theme based on blueish colors and magic",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Magic Sky Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Magic Sky Theme-color-theme.json"
+      }
+    ]
+  }
+}
