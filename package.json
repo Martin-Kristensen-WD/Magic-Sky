@@ -2,6 +2,7 @@
   "name": "magic-sky",
   "displayName": "Magic Sky",
   "description": "A color theme based on blueish colors and magic",
+  "publisher": "MKDev",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.87.0"
