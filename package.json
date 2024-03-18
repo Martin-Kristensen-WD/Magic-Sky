@@ -9,6 +9,23 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark",
+    "blue",
+    "simple",
+    "beautiful"
+  ],
+  "icon": "images/magicskyicon.png",
+  "galleryBanner": {
+    "color": "#2C5EAA",
+    "theme": "dark"
+  },
+  "license": "SEE LICENSE IN license.txt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Martin-Kristensen-WD/Magic-Sky"
+  },
   "contributes": {
     "themes": [
       {
